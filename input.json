@@ -1,0 +1,73 @@
+{
+  "active_users_year1": {
+    "desc": "Активная база клиентов к концу 1-го года (MAU)",
+    "value": 1000000
+  },
+  "tpv_per_user": {
+    "desc": "Средний оборот на карту в месяц (TPV), руб.",
+    "value": 35000
+  },
+  "partner_spend_share": {
+    "desc": "Доля трат в партнерской сети (где работают скидки)",
+    "value": 0.45
+  },
+  "sub_penetration": {
+    "desc": "Проникновение платной подписки (Costco Model)",
+    "value": 0.25
+  },
+  "sub_price": {
+    "desc": "Стоимость подписки в месяц, руб.",
+    "value": 299
+  },
+  "interchange_rate": {
+    "desc": "Средняя ставка Интерчейнджа (доход банка)",
+    "value": 0.011
+  },
+  "partner_cpa_rate": {
+    "desc": "Комиссия Ритейлера (CPA) за оборот",
+    "value": 0.012
+  },
+  "sku_funding_rate": {
+    "desc": "Комиссия Брендов (SKU Funding) от цены товара",
+    "value": 0.10
+  },
+  "sku_share_in_check": {
+    "desc": "Доля промо-товаров (SKU) в чеке партнера",
+    "value": 0.05
+  },
+  "processing_cost_rate": {
+    "desc": "Себестоимость процессинга и ПС",
+    "value": 0.003
+  },
+  "cac": {
+    "desc": "Стоимость привлечения (CAC), руб.",
+    "value": 2500
+  },
+  "churn_rate": {
+    "desc": "Ежемесячный отток (Churn Rate)",
+    "value": 0.01
+  },
+  "tax_rate": {
+    "desc": "Налог на прибыль (2025+)",
+    "value": 0.25
+  },
+  "opex_year": {
+    "desc": "Годовой OPEX (ФОТ, IT, Маркетинг запуска), руб.",
+    "value": 2800000000
+  },
+  "key_rate": {
+    "desc": "Ключевая ставка ЦБ (Cost of Money)",
+    "value": 0.165
+  },
+  "avg_balance": {
+    "desc": "Средний остаток на счете (руб.)",
+    "value": 15000
+  },
+  "transfer_price_spread": {
+    "desc": "Маржа трансфертного ценообразования (расход банка на ликвидность)",
+    "value": 0.02
+  },
+  "inflation_rate": {
+    "desc": "Ожидаемая инфляция (рост чека)", "value": 0.08
+  }
+}
